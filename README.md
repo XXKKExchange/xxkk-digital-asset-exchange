@@ -1,2 +1,17 @@
-# xxkk-digital-asset-exchange
-XXKK Exchange official repository for digital asset trading, offering secure cryptocurrency exchange services including spot trading, futures trading, and Web3 trading platform solutions.
+# XXKK Digital Asset Exchange
+
+Welcome to XXKK Exchange, a leading cryptocurrency trading platform.
+
+## Services
+- Spot trading
+- Futures & perpetual contracts
+- Copy trading
+- Deep liquidity
+
+## Why XXKK
+- Secure crypto exchange
+- Low trading fees
+- Global trading infrastructure
+
+## Keywords
+XXKK Exchange, crypto exchange, digital asset trading, cryptocurrency platform, Web3 trading
